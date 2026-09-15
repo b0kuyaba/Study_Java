@@ -1,4 +1,4 @@
-package practice_1;
+package pr;
 
 public class Switch {
     public static void main(String[] args) {
