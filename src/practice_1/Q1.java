@@ -14,5 +14,7 @@ public class Q1 {
         System.out.println("나이: " + age);
         System.out.println("점수: " + score);
         System.out.println("통과: " + result);
+
+
     }
 }
