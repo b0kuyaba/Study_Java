@@ -5,5 +5,7 @@ public class Q18 {
         int num1 = 80;
         int num2 = 99;
         int num3 = 77;
+
+
     }
 }
